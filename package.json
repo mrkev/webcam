@@ -1,0 +1,31 @@
+{
+  "name": "webcam",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "camelot": "^0.0.4",
+    "fs-extra": "^0.24.0",
+    "imagesnapjs": "0.0.7",
+    "keypress": "^0.2.1",
+    "socket.io": "^1.3.6",
+    "socket.io-client": "^1.3.6",
+    "socket.io-stream": "^0.8.0",
+    "webcam-capture": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkev/webcam.git"
+  },
+  "author": "Kevin Chavez <keh222@cornell.edu> (http://thatkevin.tk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkev/webcam/issues"
+  },
+  "homepage": "https://github.com/mrkev/webcam#readme"
+}
